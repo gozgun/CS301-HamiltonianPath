@@ -1,4 +1,4 @@
-# CS301-HamiltonianAlgorithm
+# CS301-Hamiltonian Path
 
 The problem we are considering in this project is 
 «Given an n-node undirected graph G=(V,E), is there a simple path of edges in G that contains every node in V, and thus contains exactly n−1 edges?»
